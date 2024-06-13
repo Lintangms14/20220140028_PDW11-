@@ -5,9 +5,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src="https://media.tenor.com/hX3tMlIM-RMAAAAe/clorinde-genshin-impact.png" className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+        <code>Clorinde adalah karakter dari berbagai karya seni dan sastra, sering kali digambarkan sebagai sosok yang kuat dan penuh tekad.</code>
         </p>
         <a
           className="App-link"
